@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "oled_i2c.h": "c",
+        "codetab.h": "c"
+    }
+}
